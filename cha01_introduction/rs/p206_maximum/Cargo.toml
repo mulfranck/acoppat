@@ -1,5 +1,5 @@
 [package]
-name = "p06_maximum"
+name = "p206_maximum"
 version = "0.1.0"
 edition = "2021"
 

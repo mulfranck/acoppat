@@ -1,5 +1,5 @@
 [package]
-name = "p02_printing_time"
+name = "p202_printing_time"
 version = "0.1.0"
 edition = "2021"
 

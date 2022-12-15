@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "p202_printing_time"
+name = "p206_maximum"
 version = "0.1.0"

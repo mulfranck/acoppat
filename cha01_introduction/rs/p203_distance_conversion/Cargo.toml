@@ -1,5 +1,5 @@
 [package]
-name = "p03_distance_conversion"
+name = "p203_distance_conversion"
 version = "0.1.0"
 edition = "2021"
 
