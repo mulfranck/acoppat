@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "p07_sales_competition"
+name = "p207_sales_competition"
 version = "0.1.0"

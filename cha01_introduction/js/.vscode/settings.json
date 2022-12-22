@@ -1,0 +1,10 @@
+{
+    "eslint.codeAction.showDocumentation": {
+        "enable": false
+    },
+    "editor.inlineSuggest.enabled": true,
+    "editor.snippetSuggestions": "inline",
+    "editor.suggest.showFunctions": true,
+    "javascript.suggest.completeFunctionCalls": true,
+    "oneDarkPro.editorTheme": "One Dark Pro Darker"
+}
